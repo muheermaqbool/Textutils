@@ -1,0 +1,13 @@
+body{
+    height: 800px;
+}
+.material-symbols-outlined {
+    width:1.5em;
+    height: 1.5em;
+    background-image: url(./close_FILL0_wght400_GRAD0_opsz48.png);
+    background-size: 100%;
+    background-position: center;
+    padding: 0px;
+    display: block;
+   
+  }                                                 
